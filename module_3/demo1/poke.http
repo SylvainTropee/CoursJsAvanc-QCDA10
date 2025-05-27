@@ -1,0 +1,3 @@
+### GET request to example server
+GET https://pokebuildapi.fr/api/v1/pokemon/850
+###
