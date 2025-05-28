@@ -19,7 +19,6 @@ function init(){
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
-
     let issIcon = L.icon({
         iconUrl: './assets/iss.png',
         iconSize:     [64, 64], // size of the icon
